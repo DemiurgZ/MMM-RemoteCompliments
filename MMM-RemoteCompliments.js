@@ -24,8 +24,8 @@ Module.register("MMM-RemoteCompliments", {
 	},
 
 	/**
-     * Get the header value for this module.
-     */
+	 * Get the header value for this module.
+	*/
 	getHeader: function () {
 		var self = this;
 		return self.headerContent;
